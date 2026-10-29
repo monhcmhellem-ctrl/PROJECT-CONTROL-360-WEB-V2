@@ -1,5 +1,7 @@
 # PROJECT CONTROL 360 WEB V2
 
+![Dashboard do PROJECT CONTROL 360 WEB V2](dashborad.png)
+
 **Gestão de projetos, tarefas, riscos e indicadores em uma única aplicação.**
 
 O PROJECT CONTROL 360 WEB V2 é uma aplicação web desenvolvida para centralizar o acompanhamento de projetos, organizar atividades, monitorar riscos e facilitar a visualização de indicadores operacionais em um dashboard integrado.
